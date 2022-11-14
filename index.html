@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <div class="container">
+
+  <section class="section">
+    <h1 class="title is-1">Coffee Machine</h1>
+    <div class="buttons">
+      <button class="button is-info is-light is-responsive" id="espresso">Espresso</button>
+      <button class="button is-success is-light is-responsive" id="cappuccino">Cappuccino</button>
+      <button class="button is-warning is-light is-responsive" id="latte">Latte</button>
+     </div>
+
+    <h1 class="title is-2">Add-On</h1>
+    <button class="button is-focused" id="milk">Milk</button>
+    <button class="button is-warning is-focused" id="cream">Cream</button>
+    <button class="button is-success is-focused" id="latt">Latte</button>
+
+    <div class="append" style="display:flexbox; ">
+      <h2 class="subtitle is-3">Items will come below as you select </h2>
+    </div>
+
+    <div style="padding:1em">
+      <button class="button is-dark is-responsive" id="bill">Total Bill</button>
+      
+    </div>
+    
+  </section>
+
+  <section class="section">
+    <h1><strong>Prices for the available options are as follows </strong></h1>
+    <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth box" >
+      <thead>
+        <tr>
+          <th>Product/Add-on</abbr></th>
+          <th>Milk</th>
+          <th>Cream</th>
+          <th>Latte</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+
+          <td>Espresso</td>
+          <td>60</td>
+          <td>75</td>
+          <td>100</td>
+          
+        </tr>
+        <tr>
+          
+          <td>Cappuccino</td>
+          <td>80</td>
+          <td>90</td>
+          <td>125</td>
+          
+        </tr>
+        <tr>
+          
+          <td>Latte</td>
+          <td>100</td>
+          <td>125</td>
+          <td>150</td>
+          
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</div>
+  <div class="box" id="total" style="display: flex; justify-content: center;  ">
+    
+  </div>
+  </body>
+</html>

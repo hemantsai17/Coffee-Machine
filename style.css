@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+  
+    
+}
+.container{
+  display: flex;
+  background-color: #F3E0B5;
+}
+
+.section .table{
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 30em;
+}
