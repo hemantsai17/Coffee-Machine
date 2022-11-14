@@ -9,7 +9,6 @@ Coffee House
      <a href="https://coffeemachine17.netlify.app/">View Demo</a>
      </p>
 </p>
-![coffee](https://user-images.githubusercontent.com/44155019/201688822-3ce393a8-68fb-4be4-9c8a-351d0f1466cd.png)
 <img src="https://user-images.githubusercontent.com/44155019/201688822-3ce393a8-68fb-4be4-9c8a-351d0f1466cd.png"></img>
 
  # Description 
