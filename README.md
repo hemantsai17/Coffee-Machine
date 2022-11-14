@@ -3,7 +3,7 @@ Coffee House
   </h3>
   
    <p align="center">
-  A simple coffeee biling app made with javascript and bulma
+  A simple coffee biling app made with javascript and bulma
     <br />
     <br />
      <a href="https://coffeemachine17.netlify.app/">View Demo</a>
