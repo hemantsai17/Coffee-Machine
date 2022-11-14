@@ -10,6 +10,7 @@ Coffee House
      </p>
 </p>
 ![coffee](https://user-images.githubusercontent.com/44155019/201688822-3ce393a8-68fb-4be4-9c8a-351d0f1466cd.png)
+<img src="https://user-images.githubusercontent.com/44155019/201688822-3ce393a8-68fb-4be4-9c8a-351d0f1466cd.png"></img>
 
  # Description 
    Coffee app demonstrates billing of coffees selected by user and letting them have more tham one type of coffee to order with preffered add-ons.
