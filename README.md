@@ -11,7 +11,7 @@ Coffee House
 </p>
 
  # Description 
-   Coffee app demonstrates billing of coffee selected by user and letting them have more tham one type of coffee to order with preffered add-ons.
+   Coffee app demonstrates billing of coffees selected by user and letting them have more tham one type of coffee to order with preffered add-ons.
    
   # TECH STACK 
   * HTML
